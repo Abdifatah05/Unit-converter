@@ -80,3 +80,26 @@ h4{
 p {
     margin-top: -15px;
 }
+
+@media(max-width:600px){
+    .main{
+        padding: 0;
+        height: auto;
+    }
+    .top-content{
+        width: 100%;
+        border-radius: 0;
+    }
+    h2{
+        margin-top: 70px;
+    }
+    .bottom-content{
+        width: 100%;
+        border-radius: 0;
+        height: 100vh;
+    }
+    .length{
+        margin-top: 30px;
+    }
+
+}
