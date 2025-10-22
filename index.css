@@ -81,7 +81,7 @@ p {
     margin-top: -15px;
 }
 
-@media(max-width:600px){
+@media(max-width:800px){
     .main{
         padding: 0;
         height: auto;
